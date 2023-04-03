@@ -3,9 +3,6 @@
  *    Sudoku Validator
  *========================
  *
- * Started On: October 18th, 2018
- * Author: Arjun Aravind
- * Objective: To verify whether a completed Sudoku puzzle is valid or not.
 */
 
 #include<iostream>
